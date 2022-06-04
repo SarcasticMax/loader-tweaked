@@ -1,6 +1,7 @@
 local serverAddr, serverPort, clientName, resX, resY = ...
 
 local component = require("component")
+local computer = require("computer")
 
 local encode
 (function()
